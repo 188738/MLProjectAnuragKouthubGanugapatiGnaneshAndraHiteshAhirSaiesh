@@ -1,0 +1,13 @@
+Real Estate Price Prediction using Manual Neural Network
+
+Dataset
+https://raw.githubusercontent.com/188738/MLProjectAnuragKouthubGanugapatiGnaneshAndraHiteshAhirSaiesh/main/iowa_real_estate_intelligence_2026_v1.csv
+
+How to Run
+1. Install dependencies:
+   pip install numpy pandas matplotlib
+2. Open the notebook
+3. Run all cells
+
+
+This project implements a neural network from scratch using NumPy (no ML libraries) to predict real estate prices.
